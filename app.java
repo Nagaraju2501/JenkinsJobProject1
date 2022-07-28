@@ -4,7 +4,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  */
-public class App
+public class app
 {
 
     private final String message = "Hello World!";

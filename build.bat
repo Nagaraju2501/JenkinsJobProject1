@@ -1,3 +1,3 @@
 echo @off
-javac src\main\java\com\mycompany\app\app.java
+javac app.java
 java app

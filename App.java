@@ -1,18 +1,18 @@
 
-package com.mycompany.app;
+package com.mycompany.App;
 
 /**
  * Hello world!
  */
-public class app
+public class App
 {
 
     private final String message = "Hello World!";
 
-    public app() {}
+    public App() {}
 
     public static void main(String[] args) {
-        System.out.println(new app().getMessage());
+        System.out.println(new App().getMessage());
     }
 
     private final String getMessage() {
